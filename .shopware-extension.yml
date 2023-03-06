@@ -2,3 +2,33 @@ build:
   zip:
     assets:
       enable_es_build_for_admin: true
+store:
+  availabilities:
+    - International
+    - German
+  categories:
+    - BackendBearbeitung
+    - System
+  default_locale: en_GB
+  localizations:
+    - en_GB
+  type: extension
+  tags:
+    de:
+      - admin
+    en:
+      - admin
+  description:
+    de: file:src/Resources/store/de.md
+    en: file:src/Resources/store/en.md
+  icon: src/Resources/store/icon.png
+  images:
+    - file: src/Resources/store/1.png
+      activate:
+        de: true
+        en: true
+      preview:
+        de: true
+        en: true
+      priority: 0
+
