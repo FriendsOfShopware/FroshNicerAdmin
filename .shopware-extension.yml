@@ -23,7 +23,7 @@ store:
     en: file:src/Resources/store/en.md
   icon: src/Resources/store/icon.png
   images:
-    - file: src/Resources/store/1.png
+    - file: src/Resources/store/images/1.png
       activate:
         de: true
         en: true
