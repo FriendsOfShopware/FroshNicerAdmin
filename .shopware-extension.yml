@@ -28,15 +28,15 @@ store:
         de: true
         en: true
       preview:
-        de: true
-        en: true
+        de: false
+        en: false
       priority: 0
     - file: src/Resources/store/images/1.png
       activate:
         de: true
         en: true
       preview:
-        de: false
-        en: false
+        de: true
+        en: true
       priority: 1
 
