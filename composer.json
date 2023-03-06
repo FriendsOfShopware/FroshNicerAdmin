@@ -1,0 +1,40 @@
+{
+    "name": "frosh/nicer-admin",
+    "description": "This plugin is a game-changer for administration! With an intuitive interface and streamlined features, managing your administration has never been better.",
+    "type": "shopware-platform-plugin",
+    "version": "1.0.0",
+    "authors": [
+        {
+            "name": "Friends of Shopware"
+        }
+    ],
+    "require": {
+        "shopware/core": "^6.5.0"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Frosh\\NicerAdmin\\": "src/"
+        }
+    },
+    "extra": {
+        "shopware-plugin-class": "Frosh\\NicerAdmin\\FroshNicerAdmin",
+        "copyright": "Friends of Shopware",
+        "label": {
+            "de-DE": "Make Administration nice - again",
+            "en-GB": "Make Administration nice - again"
+        },
+        "description": {
+            "de-DE": "Fun: Dieses Plugin ist eine Revolution für die Administration! Mit einer intuitiven Benutzeroberfläche und optimierten Funktionen war das Verwalten von Aufgaben noch nie einfacher.",
+            "en-GB": "Fun: This plugin is a game-changer for administration! With an intuitive interface and streamlined features, managing your administration has never been better."
+        },
+        "manufacturerLink": {
+            "de-DE": "https://github.com/FriendsOfShopware/FroshNicerAdmin",
+            "en-GB": "https://github.com/FriendsOfShopware/FroshNicerAdmin"
+        },
+        "supportLink": {
+            "de-DE": "https://github.com/FriendsOfShopware/FroshNicerAdmin/issues",
+            "en-GB": "https://github.com/FriendsOfShopware/FroshNicerAdmin/issues"
+        }
+    }
+}

@@ -1,0 +1,10 @@
+@supports(font-variation-settings: normal) {
+    *,body {
+        font-family: "Comic Sans MS", sans-serif;
+        font-feature-settings: unset;
+    }
+}
+
+body {
+    font-family: "Comic Sans MS", sans-serif;
+}
