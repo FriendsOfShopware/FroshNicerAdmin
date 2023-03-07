@@ -13,6 +13,11 @@ store:
   localizations:
     - en_GB
   type: extension
+  features:
+    de:
+      - Comic Sans als Schrift in der Administration
+    en:
+      - Comic Sans as font in administration
   tags:
     de:
       - admin
