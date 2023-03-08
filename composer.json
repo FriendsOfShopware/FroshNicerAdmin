@@ -2,7 +2,7 @@
     "name": "frosh/nicer-admin",
     "description": "This plugin is a game-changer for administration! With an intuitive interface and streamlined features, managing your administration has never been better.",
     "type": "shopware-platform-plugin",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "authors": [
         {
             "name": "Friends of Shopware"
