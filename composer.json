@@ -21,12 +21,12 @@
         "shopware-plugin-class": "Frosh\\NicerAdmin\\FroshNicerAdmin",
         "copyright": "Friends of Shopware",
         "label": {
-            "de-DE": "Make Administration nice - again",
-            "en-GB": "Make Administration nice - again"
+            "de-DE": "Nice Administration Changes",
+            "en-GB": "Nice Administration Changes"
         },
         "description": {
-            "de-DE": "Fun: Dieses Plugin ist eine Revolution für die Administration! Mit einer intuitiven Benutzeroberfläche und optimierten Funktionen war das Verwalten von Aufgaben noch nie einfacher.",
-            "en-GB": "Fun: This plugin is a game-changer for administration! With an intuitive interface and streamlined features, managing your administration has never been better."
+            "de-DE": "Dieses Plugin ist eine Revolution für die Administration! Wir verwenden in der Administration u.a. die beliebte Comic Sans und ein Hund begrüßt dich beim Login.",
+            "en-GB": "This plugin is a game-changer for administration! We use the popular Comic Sans in administration, among other things, and a dog greets you when you log in."
         },
         "manufacturerLink": {
             "de-DE": "https://github.com/FriendsOfShopware/FroshNicerAdmin",

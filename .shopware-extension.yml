@@ -16,8 +16,10 @@ store:
   features:
     de:
       - Comic Sans als Schrift in der Administration
+      - Angepasstes Logo an die Schrift
     en:
       - Comic Sans as font in administration
+      - Adjusted logo to the font
   tags:
     de:
       - admin
