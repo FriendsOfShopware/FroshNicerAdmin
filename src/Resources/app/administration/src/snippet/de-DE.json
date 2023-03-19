@@ -1,0 +1,50 @@
+{
+  "sw-dashboard": {
+    "introduction": {
+      "headlineUnkownUser": "Le Shopware, es grüßt dich.",
+      "daytimeHeadline": {
+        "5h": [
+          "Was geht ab, {greetingName}?",
+          "Was führt dich in diese einsame Gegend, {greetingName}?"
+        ],
+        "11h": [
+          "Oh hai, {greetingName}.",
+          "Ha ha ha! Was für eine Geschichte, {greetingName}!",
+          "Du bist mein Lieblingskunde, {greetingName}."
+        ],
+        "18h": [
+          "Seht her - der mächtige Nutzer, {greetingName}.",
+          "Oh nein - es ist wieder diese Person, {greetingName}."
+        ],
+        "23h": [
+          "Gier ist gut, {greetingName}.",
+          "Geld schläft nicht, {greetingName}."
+        ]
+      },
+      "daytimeWelcomeText": {
+        "5h": [
+          "Geh zurück ins Bett, du Nerd.",
+          "Yo dawg, ich habe gehört, du stehst auf Commerce?",
+          "Das ist ernstes Geschäft.",
+          "Hast du nichts Besseres zu tun?"
+        ],
+        "11h": [
+          "Ich mag Schildkröten.",
+          "Jemand, irgendwo, denkt gerade an dich, während er duscht.",
+          "Jemand hat uns die Bombe untergeschoben!",
+          "Bla bla bla, irgendwas Motivierendes hier."
+        ],
+        "18h": [
+          "Wie können Spiegel real sein, wenn unsere Augen nicht real sind?",
+          "Trotz der ständig negativen Presse covfefe",
+          "Was würdest du sagen, dass du hier tust?"
+        ],
+        "23h": [
+          "Ich brauche diese TPS-Berichte sofort.",
+          "Glaubst du an ein Leben nach der Liebe?",
+          "Ich gehe vom Mikrofon weg, um einzuatmen."
+        ]
+      }
+    }
+  }
+}
