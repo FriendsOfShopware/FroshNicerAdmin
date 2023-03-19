@@ -39,4 +39,20 @@ body {
     .sw-login__image {
         background-image: var(--frosh-nice-doge);
     }
+
+    .sw-login__headline:before {
+        content: 'such welcome';
+        font-size: 60px;
+        color: green;
+    }
+
+    .sw-login__sub-headline:before {
+        content: 'much admin';
+        font-size: 48px;
+        color: darkviolet;
+    }
+
+    .sw-login__headline,.sw-login__sub-headline {
+        font-size: 0;
+    }
 }
